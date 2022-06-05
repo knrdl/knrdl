@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My current projects:
+My [blog](https://knrdl.github.io/) and current projects:
 
 - [Bicimon](https://knrdl.github.io/bicimon/) - Bike Speedometer. ([Source Code](https://github.com/knrdl/bicimon)) `MIT` `HTML5`
 - [CASA](https://github.com/knrdl/casa) - Container as a Service Admin. ([Demo](https://knrdl.github.io/casa/)) `MIT` `Python`
