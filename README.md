@@ -8,6 +8,6 @@ My [blog](https://knrdl.github.io/) and current projects:
 - [docker-socket-protector](https://github.com/knrdl/docker-socket-protector) - Protected the Docker Daemon from forbidden requests. `MIT` `Go`
 - [futterfabrik](https://github.com/knrdl/futterfabrik) - News feed generator for (mostly) german websites. `MIT` `Python`
 - [hubleys](https://github.com/knrdl/hubleys-dashboard) - Hubleys brave new dashboard. `MIT` `Typescript`
-- [miniflux-cleanup](https://github.com/knrdl/miniflux-cleanup) - Clean spam out of your [Miniflux](https://github.com/miniflux/v2) feed. `MIT` `Go`
+- [miniflux-cleanup](https://github.com/knrdl/miniflux-cleanup) - Clean ads out of your [Miniflux](https://github.com/miniflux/v2) feeds. `MIT` `Go`
 - [poligo](https://github.com/knrdl/poligo) - Powerline for bash. `MIT` `Go`
 - [rest2smtp](https://github.com/knrdl/rest2smtp) - Send mails via REST API. `MIT` `Rust`
