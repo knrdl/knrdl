@@ -3,7 +3,6 @@
 My [blog](https://knrdl.github.io/) and current projects:
 
 - [ACME CA Server](https://github.com/knrdl/acme-ca-server) - Self hosted Let's Encrypt backend. `MIT` `Python`
-- [Bicimon](https://github.com/knrdl/bicimon) - Bike Speedometer. ([App](https://knrdl.github.io/bicimon/)) `MIT` `HTML5`
 - [CaaSa](https://github.com/knrdl/caasa) - Container as a Service admin. ([Demo](https://knrdl.github.io/caasa/)) `MIT` `Python`
 - [docker-socket-protector](https://github.com/knrdl/docker-socket-protector) - Protect the Docker Daemon from forbidden requests. `MIT` `Go`
 - [hubleys](https://github.com/knrdl/hubleys-dashboard) - Hubleys brave new dashboard. `MIT` `Typescript`
