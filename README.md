@@ -10,4 +10,3 @@ My [blog](https://knrdl.github.io/) and current projects:
 - [miniflux-cleanup](https://github.com/knrdl/miniflux-cleanup) - Clean ads out of your [Miniflux](https://github.com/miniflux/v2) feeds. `MIT` `Go`
 - [poligo](https://github.com/knrdl/poligo) - Powerline for bash. `MIT` `Go`
 - [rest2smtp](https://github.com/knrdl/rest2smtp) - Send mails via REST API. `MIT` `Rust`
-- [Spyfall Companion](https://github.com/knrdl/spyfall) - Play Spyfall [German]. ([App](https://knrdl.github.io/spyfall/)) `MIT` `Javascript`
